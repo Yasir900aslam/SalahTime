@@ -1,0 +1,12 @@
+{
+  "name": "SalahTime",
+  "displayName": "SalahTime",
+  "expo": {
+    "name": "SalahTime",
+    "slug": "SalahTime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
